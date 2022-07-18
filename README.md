@@ -3,12 +3,11 @@
 </p>
 
 ## Who Am I?
-Being a curious and driven person, I currently attend the Data Science and AI master's program at Chalmers University of Technology. These traits have also led me to work with data acquisition and visualization outside of my studies. I have performed my main work on mobile devices that impose constraints on processing capabilities, memory, and battery life.
-    
-Apart from studies and work, I also have an inherent passion for taking on personal projects. StatKit is an open-source collection of statistical analysis tools I develop for the Swift community. In 2021, I also published a book named "Statistical Analysis with Swift" on Apress Media.
+Being a curious and driven person, I earned my M.Sc in Data Science and AI, and my B.Sc. in Software Engineering at Chalmers University of Technology. The same traits also led me to work with data acquisition and visualization outside my studies. I have performed my main work on mobile devices that impose constraints on processing capabilities, memory, and battery life.
 
-Keeping track and staying on schedule with all activities has required me to be organized, focused, and tolerant of stress. These are qualities that I bring into my work and help me achieve the results that my employer and I want to see.
+Outside of work, I also have an inherent passion for taking on personal projects. StatKit is an open-source collection of statistical analysis tools I develop for the Swift community. In 2021, I also published "Statistical Analysis with Swift" on Apress Media.
 
+Keeping track and staying on schedule with work, studies, and personal projects have required me to be organized, focused, and tolerant of stress. I bring these qualities to my work in my pursuit to achieve the results that my employer and I want to see.
 
 <br><br>
 ## My Technology Buzzwords
