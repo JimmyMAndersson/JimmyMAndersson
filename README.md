@@ -15,21 +15,25 @@ Keeping track and staying on schedule with work, studies, and personal projects 
   <tr style="border:0">
     <th style="border:0" width=120px><img src="./images/swift-logo.svg" width=60px/></th>
     <th style="border:0" width=120px><img src="./images/python-logo.png" width=60px/></th>
+    <th style="border:0" width=120px><img src="./images/java-logo.png" width=60px/></th>
     <th style="border:0" width=120px><img src="./images/docker-logo.png" width=60px/></th>
   </tr>
   <tr style="border:0">
     <th style="border:0" width=120px>Swift</th>
     <th style="border:0" width=120px>Python</th>
+    <th style="border:0" width=120px>Java</th>
     <th style="border:0" width=120px>Docker</th>
   </tr>
   <tr style="border:0">
     <th style="border:0" width=120px><img src="./images/spark-logo.png" width=60px/></th>
     <th style="border:0" width=120px><img src="./images/psql-logo.svg" width=60px/></th>
+    <th style="border:0" width=120px><img src="./images/sqlite-logo.png" width=60px/></th>
     <th style="border:0" width=120px><img src="./images/git-logo.png" width=60px/></th>
   </tr>
   <tr style="border:0">
     <th style="border:0" width=120px>Spark</th>
     <th style="border:0" width=120px>PostgreSQL</th>
+    <th style="border:0" width=120px>SQLite</th>
     <th style="border:0" width=120px>Git</th>
   </tr>
 </table>
