@@ -44,10 +44,10 @@ Keeping track and staying on schedule with work, studies, and personal projects 
 <table style="width:100%">
   <tr style="border:0">
     <th style="border:0" rowspan=2 width=120px><img src="./images/statkit-logo.png" width=120px/></th>
-    <th style="border:0"><a href="https://github.com/JimmyMAndersson/StatKit">StatKit</a></th>
+    <th align="left" style="border:0"><a href="https://github.com/JimmyMAndersson/StatKit">StatKit</a></th>
   </tr>
   <tr style="border:0">
-    <td style="border:0"><i>A collection of statistical analysis tools for Swift developers</i></td>
+    <td align="left" style="border:0"><i>A collection of statistical analysis tools for Swift developers</i></td>
   </tr>
 </table>
 
@@ -57,10 +57,18 @@ Keeping track and staying on schedule with work, studies, and personal projects 
 <table style="width:100%">
   <tr style="border:0">
     <th style="border:0" rowspan=2 width=120px><img src="./images/statistical-swift-cover.png" width=120px/></th>
-    <th style="border:0" height=50%><a href="http://link.springer.com/book/10.1007/978-1-4842-7765-2">Statistical Analysis with Swift</a></th>
+    <th align="left" style="border:0" height=50%><a href="http://link.springer.com/book/10.1007/978-1-4842-7765-2">Statistical Analysis with Swift</a></th>
   </tr>
   <tr style="border:0">
-    <td style="border:0"><i>Published on Apress Media, 2021</i></td>
+    <td align="left" style="border:0"><i>Published by Apress Media, 2021</i></td>
+  </tr>
+
+  <tr style="border:0">
+    <th style="border:0" rowspan=2 width=120px><img src="./images/msc-thesis-banner.png" width=120px/></th>
+    <th align="left" style="border:0" height=50%><a href="https://hdl.handle.net/20.500.12380/305121">Attribute-Based Content Redaction in Large-Scale Data Systems:</br><span style="font-size:75%">A Study of Granular Access Control</span></a></th>
+  </tr>
+  <tr style="border:0">
+    <td align="left" style="border:0"><i>Published by Chalmers University of Technology, 2022</i></td>
   </tr>
 </table>
 
