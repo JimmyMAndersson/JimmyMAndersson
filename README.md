@@ -85,9 +85,5 @@ Keeping track and staying on schedule with work, studies, and personal projects 
       <th>LinkedIn</th>
       <td align="center"><a href="https://www.linkedin.com/in/jmandersson">Jimmy M Andersson</a></td>
     </tr>
-    <tr>
-      <th>Twitter</th>
-      <td align="center"><a href="https://twitter.com/JimmyMAndersson">@JimmyMAndersson</a></td>
-    </tr>
   </table>
 </div>
