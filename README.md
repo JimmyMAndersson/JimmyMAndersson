@@ -1,85 +1,136 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:2393d2&height=250&section=header&text=Jimmy%20M%20Andersson&desc=Data%20Engineer,%20Software%20Developer,%20and%20Author&animation=twinkling&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:2393d2&height=250&section=header&text=Jimmy%20M%20Andersson&desc=Software%20engineer%20with%20a%20passion%20for%20data%20and%20machine%20learning&animation=twinkling&fontAlignY=40"/>
 </p>
 
 ## Who Am I?
-Being a curious and driven person, I earned my M.Sc in Data Science and AI, and my B.Sc. in Software Engineering at Chalmers University of Technology. The same traits also led me to work with data acquisition and visualization outside my studies. I have performed my main work on mobile devices that impose constraints on processing capabilities, memory, and battery life.
+A curious, driven, and independent person who can quickly get up to speed and deliver value in a company’s software development process. With a background in software engineering and data science, I am well-equipped to help your organization with requirements, design, implementation, and deployment of data-driven and machine learning-powered applications.
 
-Outside of work, I also have an inherent passion for taking on personal projects. StatKit is an open-source collection of statistical analysis tools I develop for the Swift community. In 2021, I also published "Statistical Analysis with Swift" on Apress Media.
+Outside of work, I also have an inherent passion for taking on personal projects. StatKit is an open-source collection of statistical analysis tools I develop for the Swift community, and I also published the book "Statistical Analysis with Swift" on Apress Media in 2021.
 
-Keeping track and staying on schedule with work, studies, and personal projects have required me to be organized, focused, and tolerant of stress. I bring these qualities to my work in my pursuit to achieve the results that my employer and I want to see.
+<br>
 
-<br><br>
 ## My Technology Buzzwords
+#### Programming Languages
 <table style="width:100%">
-  <tr style="border:0">
-    <th style="border:0" width=120px><img src="./images/swift-logo.svg" width=60px/></th>
-    <th style="border:0" width=120px><img src="./images/python-logo.png" width=60px/></th>
-    <th style="border:0" width=120px><img src="./images/java-logo.png" width=60px/></th>
-    <th style="border:0" width=120px><img src="./images/docker-logo.png" width=60px/></th>
+  <tr align=center>
+    <td width=120px>
+      <img src="./images/swift-logo.svg" width=60px/>
+    </td>
+    <td width=120px>
+      <img src="./images/python-logo.png" width=60px/>
+    </td>
+    <td width=120px>
+      <img src="./images/java-logo.png" width=60px/>
+    </td>
   </tr>
-  <tr style="border:0">
-    <th style="border:0" width=120px>Swift</th>
-    <th style="border:0" width=120px>Python</th>
-    <th style="border:0" width=120px>Java</th>
-    <th style="border:0" width=120px>Docker</th>
+  <tr align=center>
+    <td width=120px>Swift</td>
+    <td width=120px>Python</td>
+    <td width=120px>Java</td>
   </tr>
-  <tr style="border:0">
-    <th style="border:0" width=120px><img src="./images/spark-logo.png" width=60px/></th>
-    <th style="border:0" width=120px><img src="./images/psql-logo.svg" width=60px/></th>
-    <th style="border:0" width=120px><img src="./images/sqlite-logo.png" width=60px/></th>
-    <th style="border:0" width=120px><img src="./images/git-logo.png" width=60px/></th>
+</table>
+
+#### Databases
+<table style="width:100%">
+  <tr align=center>
+    <td width=120px><img src="./images/psql-logo.svg" width=60px/></td>
+    <td width=120px><img src="./images/sqlite-logo.png" width=60px/></td>
   </tr>
-  <tr style="border:0">
-    <th style="border:0" width=120px>Spark</th>
-    <th style="border:0" width=120px>PostgreSQL</th>
-    <th style="border:0" width=120px>SQLite</th>
-    <th style="border:0" width=120px>Git</th>
+  <tr align=center>
+    <td width=120px>PostgreSQL</td>
+    <td width=120px>SQLite</td>
+  </tr>
+</table>
+
+#### DevOps / Cloud Tools
+<table style="width:100%">
+  <tr align=center>
+    <td width=120px><img src="./images/docker-logo.png" width=60px/></td>
+    <td width=120px><img src="./images/k8s-logo.png" width=60px/></td>
+    <td width=120px><img src="./images/git-logo.png" width=60px/></td>
+  </tr>
+  <tr align=center>
+    <td width=120px>Docker</td>
+    <td width=120px>Kubernetes</td>
+    <td width=120px>Git</td>
+  </tr>
+</table>
+
+#### Operating Systems
+<table style="width:100%">
+  <tr align=center>
+    <td width=120px><img src="./images/macos-logo.png" width=60px/></td>
+    <td width=120px><img src="./images/linux-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px white)"/></td>
+  </tr>
+  <tr align=center>
+    <td width=120px>macOS</td>
+    <td width=120px>Linux</td>
   </tr>
 </table>
 
 
-<br><br>
+<br>
+
 ## Current Projects
 <table style="width:100%">
-  <tr style="border:0">
-    <th style="border:0" rowspan=2 width=120px><img src="./images/statkit-logo.png" width=120px/></th>
-    <th align="left" style="border:0"><a href="https://github.com/JimmyMAndersson/StatKit">StatKit</a></th>
+  <tr>
+    <th rowspan=2 width=120px>
+      <img src="./images/statkit-logo.png" width=120px/>
+    </th>
+    <th align="left">
+      <a href="https://github.com/JimmyMAndersson/StatKit">StatKit</a>
+    </th>
   </tr>
-  <tr style="border:0">
-    <td align="left" style="border:0"><i>A collection of statistical analysis tools for Swift developers</i></td>
+  <tr>
+    <td align="left">
+      <i>A collection of statistical analysis tools for Swift developers</i>
+    </td>
   </tr>
 </table>
 
 
-<br><br>
+<br>
+
 ## Publications
 <table style="width:100%">
-  <tr style="border:0">
-    <th style="border:0" rowspan=2 width=120px><img src="./images/statistical-swift-cover.png" width=120px/></th>
-    <th align="left" style="border:0" height=50%><a href="http://link.springer.com/book/10.1007/978-1-4842-7765-2">Statistical Analysis with Swift</a></th>
+  <tr>
+    <th rowspan=2 width=120px>
+      <img src="./images/statistical-swift-cover.png" width=120px/>
+    </th>
+    <th align="left" height=50%>
+      <a href="http://link.springer.com/book/10.1007/978-1-4842-7765-2">Statistical Analysis with Swift</a>
+    </th>
   </tr>
-  <tr style="border:0">
-    <td align="left" style="border:0"><i>Published by Apress Media, 2021</i></td>
+  <tr>
+    <td align="left">
+      <i>Published by Apress Media, 2021</i>
+    </td>
   </tr>
 
-  <tr style="border:0">
-    <th style="border:0" rowspan=2 width=120px><img src="./images/msc-thesis-banner.png" width=120px/></th>
-    <th align="left" style="border:0" height=50%><a href="https://hdl.handle.net/20.500.12380/305121">Attribute-Based Content Redaction in Large-Scale Data Systems:</br><span style="font-size:75%">A Study of Granular Access Control</span></a></th>
+  <tr>
+    <th rowspan=2 width=120px>
+      <img src="./images/msc-thesis-banner.png" width=120px/>
+    </th>
+    <th align="left" height=50%>
+      <a href="https://hdl.handle.net/20.500.12380/305121">Attribute-Based Content Redaction in Large-Scale Data Systems</br><span style="font-size:75%">A Study of Granular Access Control</span></a>
+    </th>
   </tr>
   <tr style="border:0">
-    <td align="left" style="border:0"><i>Published by Chalmers University of Technology, 2022</i></td>
+    <td align="left">
+      <i>Published by Chalmers University of Technology, 2022</i>
+    </td>
   </tr>
 </table>
 
 
-<br><br>
+<br>
+
 ## Contact
 <div align="justified">
   <table>
     <tr>
       <th>Email</th>
-      <td align="center">dev [at] applyn.se</td>
+      <td align="center">hello [at] applyn.se</td>
     </tr>
     <tr>
       <th>LinkedIn</th>
@@ -87,3 +138,7 @@ Keeping track and staying on schedule with work, studies, and personal projects 
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:2393d2&height=100&section=footer"/>
+</p>
