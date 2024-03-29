@@ -11,16 +11,16 @@ Outside of work, I also have an inherent passion for taking on personal projects
 
 ## My Technology Buzzwords
 #### Programming Languages
-<table style="width:100%">
+<table>
   <tr align=center>
     <td width=120px>
-      <img src="./images/swift-logo.svg" width=60px/>
+      <img src="./images/swift-logo.svg" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/>
     </td>
     <td width=120px>
-      <img src="./images/python-logo.png" width=60px/>
+      <img src="./images/python-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/>
     </td>
     <td width=120px>
-      <img src="./images/java-logo.png" width=60px/>
+      <img src="./images/java-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/>
     </td>
   </tr>
   <tr align=center>
@@ -30,11 +30,11 @@ Outside of work, I also have an inherent passion for taking on personal projects
   </tr>
 </table>
 
-#### Databases
-<table style="width:100%">
+#### Data Storage
+<table>
   <tr align=center>
-    <td width=120px><img src="./images/psql-logo.svg" width=60px/></td>
-    <td width=120px><img src="./images/sqlite-logo.png" width=60px/></td>
+    <td width=120px><img src="./images/psql-logo.svg" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/></td>
+    <td width=120px><img src="./images/sqlite-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/></td>
   </tr>
   <tr align=center>
     <td width=120px>PostgreSQL</td>
@@ -42,12 +42,26 @@ Outside of work, I also have an inherent passion for taking on personal projects
   </tr>
 </table>
 
-#### DevOps / Cloud Tools
-<table style="width:100%">
+#### Data Streaming & Processing
+<table>
   <tr align=center>
-    <td width=120px><img src="./images/docker-logo.png" width=60px/></td>
-    <td width=120px><img src="./images/k8s-logo.png" width=60px/></td>
-    <td width=120px><img src="./images/git-logo.png" width=60px/></td>
+    <td width=120px><img src="./images/apache-flink-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/></td>
+    <td width=120px><img src="./images/apache-airflow-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/></td>
+    <td width=120px><img src="./images/apache-kafka-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/></td>
+  </tr>
+  <tr align=center>
+    <td width=120px>Apache Flink</td>
+    <td width=120px>Apache Airflow</td>
+    <td width=120px>Apache Kafka</td>
+  </tr>
+</table>
+
+#### DevOps / Cloud Tools
+<table>
+  <tr align=center>
+    <td width=120px><img src="./images/docker-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/></td>
+    <td width=120px><img src="./images/k8s-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/></td>
+    <td width=120px><img src="./images/git-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/></td>
   </tr>
   <tr align=center>
     <td width=120px>Docker</td>
@@ -57,10 +71,10 @@ Outside of work, I also have an inherent passion for taking on personal projects
 </table>
 
 #### Operating Systems
-<table style="width:100%">
+<table>
   <tr align=center>
-    <td width=120px><img src="./images/macos-logo.png" width=60px/></td>
-    <td width=120px><img src="./images/linux-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px white)"/></td>
+    <td width=120px><img src="./images/macos-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/></td>
+    <td width=120px><img src="./images/linux-logo.png" width=60px style="filter: drop-shadow(0px 0px 1px #FFFFFF)"/></td>
   </tr>
   <tr align=center>
     <td width=120px>macOS</td>
